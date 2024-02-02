@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jrn69032@gmail.com**
 
-- ⚡ Fun fact about me **I really love music and used to play bass!**
+- ⚡ Fun fact about me **I was the captain of my high school's senior debate team and even won an episode of a debating show on national TV!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
