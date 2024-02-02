@@ -5,13 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadennaidoo&label=Profile%20views&color=0e75b6&style=flat" alt="jadennaidoo" /> </p>
 
-- 🌱 I’m currently learning **Python, JavaScript**
+- 🌱 I’m currently learning **Python and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JadenNaidoo](https://github.com/JadenNaidoo)
+- 👨‍💻 All of my projects are available at [https://codepen.io/Jaden-Naidoo](https://codepen.io/Jaden-Naidoo)
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **jrn69032@gmail.com**
+- 💬 Ask me about **Anything**
 
 - ⚡ Fun fact about me **I was the captain of my high school's senior debate team and even won an episode of a debating show on national TV!**
 
