@@ -1,8 +1,8 @@
 [![MasterHead](https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif)](https://github.com/JadenNaidoo)
 <h1 align="center">Hi 👋, I'm Jaden Naidoo</h1>
 <h3 align="center">A first-year university student diving headfirst into the world of coding. Passionate about turning caffeine into code and dreams into projects, I’m pursuing a BSc in IT. Anticipating the academic year, I took matters into my own hands, teaching myself HTML, CSS, JavaScript, and Python. When I’m not immersed in online courses, you’ll find me brainstorming exciting projects. My commitment to infusing excitement into the tech world is unwavering, fueled by boundless curiosity. Let’s embark on this coding journey together! 🚀✨</h3>
-<p>Now Playing:</p>
-[![Spotify](https://jadennaidoo.vercel.app/api/spotify)](https://open.spotify.com)
+### Spotify Playing:
+[<img src="https://novatorem-alpha-eight.vercel.app/api/spotify-playing" alt="Spotify Playing width="350"/>]
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadennaidoo&label=Profile%20views&color=0e75b6&style=flat" alt="jadennaidoo" /> </p>
 
