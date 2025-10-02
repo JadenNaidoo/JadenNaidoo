@@ -1,38 +1,40 @@
 [![MasterHead](https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif)](https://github.com/JadenNaidoo)
 
 <h1 align="center">Hi 👋, I'm Jaden Naidoo</h1>
-<h3 align="center">2nd-year BSc IT student specializing in Data Science</h3>
+<h3 align="center">🚀 2nd-year BSc IT student | Data Science Enthusiast 📊🤖</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 
-- 🎓 2nd-year BSc IT student specializing in **Data Science**  
-- 💻 Passionate about **Machine Learning, AI, and Data-Driven Projects**  
-- 🌱 Currently learning **Python, SQL, and advanced ML concepts**  
-- 🚀 Building projects that connect theory with real-world impact  
+✨ **About Me**  
+- 🎓 Studying **Data Science & AI**  
+- 💡 Exploring **Machine Learning, SQL & Real-World AI projects**  
+- 🌱 Currently learning **Advanced ML & Data Engineering concepts**  
+- 🏆 Debate champ & ex-captain (won a show on national TV 🎤🔥)  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jaden-naidoo-ds)  
-- ⚡ Fun fact: I was the captain of my high school's senior debate team and even won an episode of a debating show on national TV!  
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadennaidoo&label=Profile%20views&color=0e75b6&style=flat" alt="jadennaidoo" /> </p>
-
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/jaden-naidoo-ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaden-naidoo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaden-naidoo-ds" target="blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+</a>
 </p>
 
-<h3 align="left">⚒️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.or
+---
+
+### ⚒️ Languages & Tools:
+[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,mysql,sklearn,git,github,vscode&perline=4)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JadenNaidoo&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadenNaidoo&theme=radical" alt="streaks" />
+</p>
+
+---
+
+⭐ *"Data fuels decisions. Code brings it to life."*  
+
