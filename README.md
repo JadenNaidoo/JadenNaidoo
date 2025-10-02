@@ -24,29 +24,10 @@
 ---
 
 ### ⚒️ Languages & Tools:
-<p align="center">
-
-<!-- Skillicons -->
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,vscode&perline=4" />
-
-<!-- Anaconda -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="anaconda" width="40" height="40"/>
-
-<!-- Scikit-learn -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="scikit-learn" width="40" height="40"/>
-
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda,mysql,mongodb,scikitlearn,vscode&perline=3)](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JadenNaidoo&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadenNaidoo&theme=radical" alt="streaks" />
-</p>
-
----
-
-⭐ *"Data fuels decisions. Code brings it to life."*  
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JadenNaidoo&show_icons=true&theme=radical" alt="st_
