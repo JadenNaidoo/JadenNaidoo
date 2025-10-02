@@ -30,4 +30,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JadenNaidoo&show_icons=true&theme=radical" alt="st_
+  <!-- Main stats card with animated bars -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JadenNaidoo&show_icons=true&count_private=true&theme=radical&hide_border=false" alt="JadenNaidoo GitHub Stats" />
+
+  <!-- Streak stats with animated bars -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadenNaidoo&theme=radical&hide_border=false" alt="JadenNaidoo Streak Stats" />
+</p>
+
+---
+
+⭐ *"Data fuels decisions. Code brings it to life."*  
