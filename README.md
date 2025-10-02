@@ -24,7 +24,18 @@
 ---
 
 ### ⚒️ Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,mysql,sklearn,git,github,vscode&perline=4)](https://skillicons.dev)
+<p align="center">
+
+<!-- Skillicons -->
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,vscode&perline=4" />
+
+<!-- Anaconda -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="anaconda" width="40" height="40"/>
+
+<!-- Scikit-learn -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="scikit-learn" width="40" height="40"/>
+
+</p>
 
 ---
 
@@ -37,4 +48,5 @@
 ---
 
 ⭐ *"Data fuels decisions. Code brings it to life."*  
+
 
