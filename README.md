@@ -14,7 +14,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://c.tenor.com/wQNkL7B1lR0AAAAM/gradient-bar.gif" alt="Animated Gradient Separator" width="80%"/>
+  ![Gradient Separator](https://img.shields.io/badge/----------------------->-ff6b6b?style=for-the-badge&logoColor=ff6b6b)
 </p>
 <br/>
 
@@ -27,7 +27,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://c.tenor.com/wQNkL7B1lR0AAAAM/gradient-bar.gif" alt="Animated Gradient Separator" width="80%"/>
+  ![Gradient Separator](https://img.shields.io/badge/----------------------->-6b5bff?style=for-the-badge&logoColor=6b5bff)
 </p>
 <br/>
 
@@ -39,7 +39,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://c.tenor.com/wQNkL7B1lR0AAAAM/gradient-bar.gif" alt="Animated Gradient Separator" width="80%"/>
+  ![Gradient Separator](https://img.shields.io/badge/----------------------->-ff6b6b?style=for-the-badge&logoColor=ff6b6b)
 </p>
 <br/>
 
@@ -53,10 +53,11 @@
 
 <br/>
 <p align="center">
-  <img src="https://c.tenor.com/wQNkL7B1lR0AAAAM/gradient-bar.gif" alt="Animated Gradient Separator" width="80%"/>
+  ![Gradient Separator](https://img.shields.io/badge/----------------------->-6b5bff?style=for-the-badge&logoColor=6b5bff)
 </p>
 <br/>
 
 <div align="center">
   ⭐ *"Data fuels decisions. Code brings it to life."*
 </div>
+
